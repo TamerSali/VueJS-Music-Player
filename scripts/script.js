@@ -26,7 +26,7 @@ new Vue({
           favorited: false
         },
         {
-          name: "Let Your Body Home ",
+          name: "Let Your Body Come Home ",
           artist: "Low Deep T",
           cover: "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/73/42/f2/7342f216-5ffe-2912-528c-4d58b29e4a9e/cover.jpg/268x0w.jpg",
           source: "http://red3mp3.su/stream/56604068/low-deep-t-let-your-body-come-home.mp3",
