@@ -12,7 +12,7 @@ new Vue({
         {
           name: "Aya",
           artist: "Murda & Ezhel",
-          cover: "https://1.bp.blogspot.com/-vAxHwPiBTtM/XYRigdWKetI/AAAAAAABnpU/g38ZJ2HfemQ1rwNS6nR3ju1f5DSIcMDvwCLcBGAsYHQ/s1600/Murda%2B%2526%2BEzhel.jpeg",
+          cover: "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/56/76/55/567655b0-fede-5d2a-d036-0e7bbf2bb2b0/source/1200x1200bb.jpg",
           source: "./music/Aya.mp3",
           url: "https://www.youtube.com/watch?v=4V7oq8KtDsA",
           favorited: false
