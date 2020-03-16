@@ -21,7 +21,7 @@ new Vue({
           name: "Bi Sonraki Hayatimda Gel",
           artist: "Murda & Ezhel",
           cover: "https://img-s1.onedio.com/id-5e2acf2f6093bb8c2f0db4ca/rev-0/w-500/h-500/f-jpg/s-5b5ae76c07b70de0a0ea5618b81536e67a95d59a.jpg",
-          source: "D://MY WORK//VueJS-Music-Player//music//Bi Sonraki Hayatimda.mp3",
+          source: "./music/Bi Sonraki Hayatimda.mp3",
           url: "https://www.youtube.com/watch?v=tiEt1qkaaGA",
           favorited: false
         },
@@ -29,7 +29,7 @@ new Vue({
           name: "Ma Lo",
           artist: "Tiwa Savage",
           cover: "https://i.pinimg.com/originals/ff/d1/15/ffd11511e4351c5fdd22ca0faad79d25.jpg",
-          source: "D://MY WORK//VueJS-Music-Player//music//Ma Lo.mp3",
+          source: "./music/Ma Lo.mp3",
           url: "https://www.youtube.com/watch?v=U4fqMMKo9ns",
           favorited: false
         },
@@ -37,7 +37,7 @@ new Vue({
           name: "Let Your Body Come Home ",
           artist: "Low Deep T",
           cover: "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/73/42/f2/7342f216-5ffe-2912-528c-4d58b29e4a9e/cover.jpg/268x0w.jpg",
-          source: "D://MY WORK//VueJS-Music-Player//music//Low Deep T.mp3",
+          source: "./music/Low Deep T.mp3",
           url: "https://www.youtube.com/watch?v=gEmSwBrz9BY",
           favorited: true
         },
@@ -45,7 +45,7 @@ new Vue({
           name: "Old Town Road",
           artist: "Billy Ray Cyrus, Lil Nas X",
           cover: "https://the360mag.com/wp-content/uploads/2019/05/unnamed-2-e1558116357829.jpg",
-          source: "D://MY WORK//VueJS-Music-Player//music//Old Town Road.mp3",
+          source: "./music/Old Town Road.mp3",
           url: "https://www.youtube.com/watch?v=r7qovpFAGrQ",
           favorited: false
         },
@@ -53,7 +53,7 @@ new Vue({
           name: "Кажи ми вече всичко",
           artist: "Billy Hlapeto, VenZy",
           cover: "https://s.mxmcdn.net/images-storage/albums/8/9/1/0/7/0/32070198_350_350.jpg",
-          source: "D://MY WORK//VueJS-Music-Player//music//Billy Hlapeto.mp3",
+          source: "./music/Billy Hlapeto.mp3",
           url: "https://www.youtube.com/watch?v=o7Nv5lCSDHM",
           favorited: false
         }
