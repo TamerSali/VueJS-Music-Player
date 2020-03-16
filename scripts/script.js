@@ -10,26 +10,34 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Ma Lo",
-          artist: "Tiwa Savage",
-          cover: "https://i.pinimg.com/originals/ff/d1/15/ffd11511e4351c5fdd22ca0faad79d25.jpg",
-          source: "https://topnaija.ng/wp-content/uploads/2019/02/Tiwa-Savage-Ma-Lo-Ft.-Wizkid-Spellz.mp3",
-          url: "https://www.youtube.com/watch?v=U4fqMMKo9ns",
+          name: "Aya",
+          artist: "Murda & Ezhel",
+          cover: "https://1.bp.blogspot.com/-vAxHwPiBTtM/XYRigdWKetI/AAAAAAABnpU/g38ZJ2HfemQ1rwNS6nR3ju1f5DSIcMDvwCLcBGAsYHQ/s1600/Murda%2B%2526%2BEzhel.jpeg",
+          source: "D://MY WORK//VueJS-Music-Player//music//Aya.mp3",
+          url: "https://www.youtube.com/watch?v=4V7oq8KtDsA",
           favorited: false
         },
         {
-          name: "Macarena",
-          artist: "Tyga",
-          cover: "https://images.genius.com/bf240156bf229b0d64755f527126e748.646x646x1.jpg",
-          source: "http://red3mp3.su/stream/60999829/tyga-ayy-macarena.mp3",
-          url: "https://www.youtube.com/watch?v=obUHDyWFMi8",
+          name: "Bi Sonraki Hayatimda Gel",
+          artist: "Murda & Ezhel",
+          cover: "https://img-s1.onedio.com/id-5e2acf2f6093bb8c2f0db4ca/rev-0/w-500/h-500/f-jpg/s-5b5ae76c07b70de0a0ea5618b81536e67a95d59a.jpg",
+          source: "D://MY WORK//VueJS-Music-Player//music//Bi Sonraki Hayatimda.mp3",
+          url: "https://www.youtube.com/watch?v=tiEt1qkaaGA",
+          favorited: false
+        },
+        {
+          name: "Ma Lo",
+          artist: "Tiwa Savage",
+          cover: "https://i.pinimg.com/originals/ff/d1/15/ffd11511e4351c5fdd22ca0faad79d25.jpg",
+          source: "D://MY WORK//VueJS-Music-Player//music//Ma Lo.mp3",
+          url: "https://www.youtube.com/watch?v=U4fqMMKo9ns",
           favorited: false
         },
         {
           name: "Let Your Body Come Home ",
           artist: "Low Deep T",
           cover: "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/73/42/f2/7342f216-5ffe-2912-528c-4d58b29e4a9e/cover.jpg/268x0w.jpg",
-          source: "http://red3mp3.su/stream/56604068/low-deep-t-let-your-body-come-home.mp3",
+          source: "D://MY WORK//VueJS-Music-Player//music//Low Deep T.mp3",
           url: "https://www.youtube.com/watch?v=gEmSwBrz9BY",
           favorited: true
         },
@@ -37,7 +45,7 @@ new Vue({
           name: "Old Town Road",
           artist: "Billy Ray Cyrus, Lil Nas X",
           cover: "https://the360mag.com/wp-content/uploads/2019/05/unnamed-2-e1558116357829.jpg",
-          source: "http://red3mp3.su/stream/53047442/billy-ray-cyrus-lil-nas-x-old-town-road-2350.mp3",
+          source: "D://MY WORK//VueJS-Music-Player//music//Old Town Road.mp3",
           url: "https://www.youtube.com/watch?v=r7qovpFAGrQ",
           favorited: false
         },
@@ -45,7 +53,7 @@ new Vue({
           name: "Кажи ми вече всичко",
           artist: "Billy Hlapeto, VenZy",
           cover: "https://s.mxmcdn.net/images-storage/albums/8/9/1/0/7/0/32070198_350_350.jpg",
-          source: "http://red3mp3.su/stream/34093769/billy-hlapeto-venzy-kazhi-mi-veche-vsichko.mp3",
+          source: "D://MY WORK//VueJS-Music-Player//music//Billy Hlapeto.mp3",
           url: "https://www.youtube.com/watch?v=o7Nv5lCSDHM",
           favorited: false
         }
