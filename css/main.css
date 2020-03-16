@@ -348,3 +348,11 @@ body {
   pointer-events: none;
   opacity: 0;
 }
+.copyright {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  font-family: "Ethnocentric";
+  letter-spacing: 4px;
+  color: #d0d8e6;
+}
